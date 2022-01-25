@@ -11,8 +11,8 @@ Easy and fast to develop database applications without using any server side pro
 Whether it's a Dynamic Website or a Mobile App or some Data Analytics Portal, the development is real fun and fast. Nothing better than trying it yourself. What all you need is a basic understanding of HTML, CSS, Bootstrap, and Javascript.
 
 # Benefits of using JsonPowerDB <br />
-Simplest way to retrieve data in a JSON format.
-Schema-free, Simple to use, Nimble and In-Memory database.
-It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
-It is low level (raw) form of data and is also human readable.
-It helps developers in faster coding, in-turn reduces development cost.
+1.Simplest way to retrieve data in a JSON format.<br />
+2.Schema-free, Simple to use, Nimble and In-Memory database.<br />
+3.It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.<br />
+4.It is low level (raw) form of data and is also human readable.<br />
+5.It helps developers in faster coding, in-turn reduces development cost.<br />
